@@ -24,6 +24,7 @@
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.5.0",
     "@sentry/react-native": "~7.2.0",
+    "@urql/core": "^6.0.1",
     "convex": "^1.31.7",
     "date-fns": "^4.1.0",
     "expo": "~54.0.33",
@@ -72,7 +73,6 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
-    "@urql/core": "^6.0.1",
     "babel-preset-expo": "^54.0.10",
     "reactotron-react-native": "^5.1.18",
     "typescript": "~5.9.2"
